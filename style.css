@@ -1,0 +1,10 @@
+body > header{
+  text-align: center;
+  color: green;
+}
+body > main > article > section > header{
+  text-align: center;
+}
+main{
+  background-color: grey;
+}
